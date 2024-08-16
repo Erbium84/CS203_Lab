@@ -1,5 +1,6 @@
 // Kshitij Sinha
-// 23/cs/225, A4
+// 23/CS/225, A4
+// Aim: Write a C++ Program to print your personal details; name, surname (single char), total marks, gender(M/F), result(P/F) by taking input from the user
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
