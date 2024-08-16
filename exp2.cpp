@@ -1,3 +1,6 @@
+// Kshitij Sinha
+// 23/CS/225, A4
+// Aim: Write class Employee with data Empnumber and Empname, and member function getdata() and display(). Take atleast six inputs from the user
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
